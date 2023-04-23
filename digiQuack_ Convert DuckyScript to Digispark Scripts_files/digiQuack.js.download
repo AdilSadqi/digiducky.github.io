@@ -24,7 +24,7 @@ function convert(){
 	var digisparkScript = "";
 
 	// Write module imports to output file:
-	digisparkScript += "// Converted using digiQuack by Sadqi (https://asadqi.com) \n\n";
+	digisparkScript += "// Converted using digiQuack by Sadqi (https://digi.asadqi.com/) \n\n";
 	digisparkScript +="#include \"DigiKeyboard.h\"\n\n";
 	digisparkScript += "void setup() {}\n\n";
 	digisparkScript += "void loop() {\n";
